@@ -1,6 +1,6 @@
 {
   "name": "waservix",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Official Node.js client for the WAservix WhatsApp API Gateway: send WhatsApp messages, images and documents from your own number, with status tracking and webhooks.",
   "main": "index.js",
   "types": "index.d.ts",
@@ -28,7 +28,7 @@
   ],
   "homepage": "https://tekservix.com/waservix/",
   "bugs": {
-    "url": "https://github.com/ellyj164/waservix-node/issues",
+    "url": "https://github.com/tekservixhq/waservix-node/issues",
     "email": "support@tekservix.com"
   },
   "author": "Tekservix (https://tekservix.com)",
@@ -38,6 +38,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ellyj164/waservix-node.git"
+    "url": "git+https://github.com/tekservixhq/waservix-node.git"
   }
 }
