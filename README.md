@@ -1,5 +1,7 @@
 # waservix
 
+**WAservix WhatsApp API Gateway** - official Node.js client: send WhatsApp messages, images and documents from your own number, with status tracking and webhooks. By Tekservix.
+
 Node.js client for the [WAservix WhatsApp API Gateway](https://tekservix.com/waservix/).
 
 WAservix links your own WhatsApp number by QR code (the same way WhatsApp Web does) and gives you a REST API to send text, images, video, audio, documents, locations, polls and more, with webhooks for incoming messages and status updates.
