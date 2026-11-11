@@ -1,7 +1,7 @@
 {
   "name": "waservix",
-  "version": "1.0.2",
-  "description": "Official Node.js client for the WAservix WhatsApp API Gateway: send WhatsApp messages, images and documents from your own number, with status tracking and webhooks.",
+  "version": "1.0.3",
+  "description": "WAservix WhatsApp API Gateway: official Node.js client by Tekservix. Send WhatsApp messages, images and documents from your own number, with status tracking and webhooks.",
   "main": "index.js",
   "types": "index.d.ts",
   "files": [
@@ -15,6 +15,7 @@
   },
   "keywords": [
     "whatsapp",
+    "whatsapp-api-gateway",
     "whatsapp-api",
     "whatsapp-gateway",
     "whatsapp-business",
